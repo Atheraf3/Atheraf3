@@ -1,4 +1,4 @@
-![MuhammadRafli](/img/github-header-image.png)
+![Atheraf3](/img/github-header-image.png)
 
 <h3 align="left">I code with 💻</h3>
 
@@ -37,14 +37,14 @@
 
 ###
 
-![MhmmdRafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atheraf3&hide=stars&show_icons=true&rank_icon=github&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atheraf3&hide_progress=true&theme=dark)
+![Atheraf3's GitHub stats](https://github-stats-extended.vercel.app/api?username=Atheraf3&hide=stars&show_icons=true&rank_icon=github&theme=dark) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Atheraf3&hide_progress=true&theme=dark)
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VladR382/VladR382/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VladR382/VladR382/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VladR382/VladR382/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atheraf3/Atheraf3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atheraf3/Atheraf3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Atheraf3/Atheraf3/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
